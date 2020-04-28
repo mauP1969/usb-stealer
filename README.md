@@ -1,4 +1,4 @@
-# USBStealer
+# USBStealer PLUS SOME OTHER STEALERS
 A USBStealer for Windows that steals credentials from the target machine
 
 # Requirements:
